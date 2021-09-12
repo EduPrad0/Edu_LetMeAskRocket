@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Edu_LetMeAskRocket/static/css/main.ef210bf0.chunk.css",
+    "main.js": "/Edu_LetMeAskRocket/static/js/main.19f41139.chunk.js",
+    "main.js.map": "/Edu_LetMeAskRocket/static/js/main.19f41139.chunk.js.map",
+    "runtime-main.js": "/Edu_LetMeAskRocket/static/js/runtime-main.d31bc253.js",
+    "runtime-main.js.map": "/Edu_LetMeAskRocket/static/js/runtime-main.d31bc253.js.map",
+    "static/js/2.a8a1709b.chunk.js": "/Edu_LetMeAskRocket/static/js/2.a8a1709b.chunk.js",
+    "static/js/2.a8a1709b.chunk.js.map": "/Edu_LetMeAskRocket/static/js/2.a8a1709b.chunk.js.map",
+    "index.html": "/Edu_LetMeAskRocket/index.html",
+    "static/css/main.ef210bf0.chunk.css.map": "/Edu_LetMeAskRocket/static/css/main.ef210bf0.chunk.css.map",
+    "static/js/2.a8a1709b.chunk.js.LICENSE.txt": "/Edu_LetMeAskRocket/static/js/2.a8a1709b.chunk.js.LICENSE.txt",
+    "static/media/copy.f622509a.svg": "/Edu_LetMeAskRocket/static/media/copy.f622509a.svg",
+    "static/media/google-icon.df15d8e5.svg": "/Edu_LetMeAskRocket/static/media/google-icon.df15d8e5.svg",
+    "static/media/illustration.ae7276f0.svg": "/Edu_LetMeAskRocket/static/media/illustration.ae7276f0.svg",
+    "static/media/logo.a88331cb.svg": "/Edu_LetMeAskRocket/static/media/logo.a88331cb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d31bc253.js",
+    "static/js/2.a8a1709b.chunk.js",
+    "static/css/main.ef210bf0.chunk.css",
+    "static/js/main.19f41139.chunk.js"
+  ]
+}
